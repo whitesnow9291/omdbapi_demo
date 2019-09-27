@@ -1,2 +1,5 @@
-# npm install
-# npm start
+## Setup Guide
+```
+npm install
+npm start
+```
